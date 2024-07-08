@@ -15,6 +15,7 @@ ignorePublish: true
 
 
 # Gen1
+マイクロマウス Gen1 メインページ
 * 基本設計(T.B.D.)
 * 詳細設計(T.B.D.)
   * HW 詳細設計(T.B.D.)
